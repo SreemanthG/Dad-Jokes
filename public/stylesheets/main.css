@@ -1,0 +1,23 @@
+body{
+    /* background-color: #b3c6e4; */
+    background-color: rgba(221, 234, 248,0.3);
+    text-align: center;
+    align-items: center;
+}
+.joke{
+    background-color: #deeaf8;
+
+    border:1px solid #687c94;
+    border-radius: 5px;
+    height: 30%;
+    margin-top: 200px;
+    padding: 40px;
+
+}
+.btn{
+    align-items: center;
+    margin-left:auto;
+    padding: 10px 30px;
+    margin-top: 20px;
+    /* margin-left: auto; */
+}
